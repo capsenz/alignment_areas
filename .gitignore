@@ -1,0 +1,8 @@
+**/.DS_Store
+.vscode
+**/**/__pycache__/
+lightning_semi_supervised_learning.egg-info/
+cifar-10*
+*.job
+*.ckpt
+*.csv

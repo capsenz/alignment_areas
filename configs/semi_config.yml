@@ -1,0 +1,13 @@
+cifar10:
+  learning_scenario: semi
+  learning_rate: 0.005075200719155894
+  dropout_rate: 0.457033515639788
+  weight_decay': 1e-2
+  batch_size: 512
+  gpus: 1
+  algo: hpn_ua
+  affix: alexnet_1k_exp_error_fixed
+  num_labeled: 1000
+  max_epochs: 200
+  threshold: 0.85
+  n_classes: 10
